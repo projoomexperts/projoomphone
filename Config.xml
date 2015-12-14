@@ -17,6 +17,8 @@
         projoomexperts 
     </author>
     
+    <plugin name="cordova-plugin-whitelist" />
+    
     <access origin="http://youtube.com" subdomains="true" />
     
 </widget>
